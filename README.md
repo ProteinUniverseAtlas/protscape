@@ -64,4 +64,4 @@ python3 scripts/protscape.py -infile directory_with_structures -mode foldseek -f
 
 ## Notes
 
-The `P12_search_pipeline` folder contains a shell script corresponding to the computational workflow used to collect and analyse the structure space of the P12 protein as well as the metadata to visualise the network in Cosmograph.
+The `P12_search_pipeline` folder contains a shell script corresponding to the computational workflow used to collect and analyse the structure space of the P12 protein, as well as the metadata to visualise the network in Cosmograph and the structure models generated for the P12 homologs.
